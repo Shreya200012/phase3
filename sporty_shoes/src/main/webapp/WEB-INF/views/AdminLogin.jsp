@@ -6,16 +6,16 @@
 <meta charset="ISO-8859-1">
 <title>Sporty Shoes</title>
 </head>
-<body style="background-color: powderblue">
+<body style="background-color: lavender">
 	<br>
 	<a href=index.jsp
 		style="color: black; text-decoration: none; font-size: 35px; font-weight: bold"><center>Sporty
-			Shoes--An-E commerce Website</center></a>
+			Shoes</center></a>
 	<br>
 	<br>
 
 	<center>
-		<h2 style="color: blue">Admin Login</h2>
+		<h2 style="color: purple">Admin Login</h2>
 	</center>
 	<center>
 		<div style="border: 3px solid black; width: 25%; padding: 20px">
@@ -29,7 +29,7 @@
 		</div>
 	</center>
 	<br>
-	<a href=forgotPassword style="font-size: 25; color: red">Forgot
+	<a href=forgotPassword style="font-size: 25; color: darkpink">Forgot
 		Password</a>
 
 

@@ -7,7 +7,7 @@
 <title>Sporty Shoes</title>
 <style>
 div {
-	color: blue;
+	color: lavender;
 	font-size: 20px;
 	height: 100px;
 	width: 1250px;
@@ -18,10 +18,10 @@ a {
 }
 </style>
 </head>
-<body style="background-color: powderblue">
+<body style="background-color: lavender">
 	<a href=index.jsp
 		style="color: black; text-decoration: none; font-size: 35px; font-weight: bold;"><center>Sporty
-			Shoes--An-E commerce Website</center></a>
+			Shoes</center></a>
 	<br>
 	<br>
 
